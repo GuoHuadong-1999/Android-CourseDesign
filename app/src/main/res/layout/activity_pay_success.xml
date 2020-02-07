@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/colorGrayBackground"
+              android:gravity="center">
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+        <ImageView android:layout_width="80dp"
+                   android:layout_height="80dp"
+                   android:src="@mipmap/pay_success">
+        </ImageView>
+        <TextView
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBlackFont"
+                android:textSize="18sp"
+                android:text="支付成功">
+        </TextView>
+        <TextView
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBlackFont"
+                android:textSize="16sp"
+                android:text="感谢您使用GHD_Shopping APP，谢谢您的支持！"
+                android:layout_marginBottom="20dp">
+        </TextView>
+        <Button
+                android:id="@+id/btn_back"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="返回购物车"
+                android:textSize="18sp"
+                android:background="@drawable/back_button_round"/>
+    </LinearLayout>
+</LinearLayout>

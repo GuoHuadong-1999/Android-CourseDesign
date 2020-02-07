@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<classic>
+    <infos label="推荐分类">
+        <info label="常用分类">
+            <name>笔记本</name>
+            <name>手机</name>
+            <name>坚果炒货</name>
+            <name>笔记本配件</name>
+            <name>手机耳机</name>
+            <name>平板电脑</name>
+        </info>
+        <info label="专场推荐">
+            <name>199减60</name>
+            <name>圣诞礼遇季</name>
+            <name>限时7折</name>
+        </info>
+        <info label="热门分类">
+            <name>笔记本</name>
+            <name>空调</name>
+            <name>手机</name>
+            <name>服饰</name>
+            <name>休闲零食</name>
+            <name>生鲜</name>
+            <name>图书</name>
+            <name>面膜</name>
+            <name>投资金</name>
+            <name>瑞表</name>
+            <name>牛奶</name>
+            <name>纸品湿巾</name>
+        </info>
+    </infos>
+    <infos label="京东超市">
+        <info label="休闲零食">
+            <name>坚果炒货</name>
+            <name>糖果</name>
+            <name>休闲零食</name>
+            <name>膨化食品</name>
+            <name>肉干肉脯</name>
+            <name>饼干蛋糕</name>
+            <name>蜜饯果干</name>
+            <name>低糖食品</name>
+            <name>中华老字号</name>
+        </info>
+        <info label="京东生鲜">
+            <name>新鲜水果</name>
+            <name>海鲜水产</name>
+            <name>精选肉类</name>
+            <name>蛋类</name>
+            <name>新鲜蔬菜</name>
+            <name>速冻食品</name>
+            <name>乳品冷饮</name>
+            <name>大闸蟹</name>
+            <name>芒果</name>
+        </info>
+        <info label="粮油调味">
+            <name>大米</name>
+            <name>面粉</name>
+            <name>杂粮</name>
+            <name>食用油</name>
+            <name>调味品</name>
+            <name>方便速食</name>
+            <name>烘焙原料</name>
+            <name>有机食品</name>
+            <name>南北干货</name>
+        </info>
+        <info label="水饮茗茶">
+            <name>饮用水</name>
+            <name>饮料</name>
+            <name>牛奶乳品</name>
+            <name>咖啡奶茶</name>
+            <name>成人奶粉</name>
+            <name>蜂蜜/蜂产品</name>
+        </info>
+        <info label="进口食品">
+            <name>牛奶</name>
+            <name>休闲零食</name>
+            <name>饼干蛋糕</name>
+            <name>糖果/巧克力</name>
+            <name>冲调饮品</name>
+            <name>粮油调味</name>
+        </info>
+        <info label="中外名酒">
+            <name>白酒</name>
+            <name>葡萄酒</name>
+            <name>洋酒</name>
+            <name>啤酒</name>
+            <name>黄酒/养生酒</name>
+            <name>陈年老酒</name>
+        </info>
+        <info label="营养保健">
+            <name>营养健康</name>
+            <name>营养成分</name>
+            <name>滋补养生</name>
+        </info>
+        <info label="母婴玩具">
+            <name>尿裤湿巾</name>
+            <name>喂养用品</name>
+            <name>洗护用具</name>
+            <name>童装</name>
+            <name>妈妈专区</name>
+            <name>童床</name>
+            <name>童车</name>
+            <name>安全座椅</name>
+            <name>玩具</name>
+        </info>
+        <info label="家具用品">
+            <name>床品套件</name>
+            <name>被子被芯</name>
+            <name>毛巾浴巾</name>
+            <name>睡衣家服</name>
+            <name>男士内裤</name>
+            <name>女士内裤</name>
+            <name>男袜</name>
+            <name>女袜</name>
+            <name>文胸</name>
+            <name>厨具</name>
+            <name>收纳用品</name>
+            <name>雨伞雨具</name>
+            <name>浴室用品</name>
+            <name>台灯</name>
+            <name>宠物园艺</name>
+        </info>
+        <info label="个护清洁">
+            <name>纸品湿巾</name>
+            <name>女性护理</name>
+            <name>口腔护理</name>
+            <name>衣物清洁</name>
+            <name>洗发护发</name>
+            <name>家庭清洁</name>
+            <name>一次性用品</name>
+            <name>驱虫用品</name>
+            <name>皮具护理</name>
+        </info>
+        <info label="美妆护肤">
+            <name>面膜</name>
+            <name>彩妆</name>
+            <name>香水</name>
+            <name>沐浴用品</name>
+            <name>男士护肤</name>
+            <name>女士护肤</name>
+        </info>
+        <info label="小家电">
+            <name>厨房小电</name>
+            <name>生活电器</name>
+            <name>剃须刀</name>
+        </info>
+        <info label="宠物生活">
+            <name>猫干粮</name>
+            <name>猫零食</name>
+            <name>猫砂</name>
+            <name>猫砂盆</name>
+            <name>狗干粮</name>
+            <name>狗零食</name>
+            <name>食具水具</name>
+            <name>宠物驱虫</name>
+            <name>鱼缸水缸箱</name>
+        </info>
+    </infos>
+    <infos label="国际名牌">
+        <info label="推荐品牌">
+            <name>A21</name>
+            <name>CALVIN KLEIN</name>
+            <name>VANS</name>
+            <name>ECCO</name>
+            <name>POLO</name>
+            <name>SK-II</name>
+            <name>WERSACE</name>
+            <name>美素佳儿</name>
+            <name>FOSSIL</name>
+        </info>
+        <info label="运动户外">
+            <name>adidas</name>
+            <name>Nike</name>
+            <name>CONVERSE</name>
+            <name>CROCS</name>
+            <name>PUMA</name>
+            <name>Reebok</name>
+        </info>
+        <info label="钟表配饰">
+            <name>CITIZEN</name>
+            <name>SWATCH</name>
+            <name>CASIO</name>
+            <name>SEIKO</name>
+            <name>AGATHA</name>
+            <name>Ray Ban</name>
+        </info>
+    </infos>
+    <infos label="奢侈品">
+        <info label="热门精选">
+            <name>官方旗舰</name>
+            <name>奢品童装</name>
+            <name>潮流奢品</name>
+        </info>
+        <info label="服饰">
+            <name>女服</name>
+            <name>男服</name>
+            <name>童装</name>
+        </info>
+        <info label="箱包">
+            <name>女士箱包</name>
+            <name>男士箱包</name>
+            <name>拉杆箱</name>
+        </info>
+        <info label="名表">
+            <name>瑞士名表</name>
+            <name>时尚腕表</name>
+            <name>智能手表</name>
+        </info>
+        <info label="鞋靴配件">
+            <name>鞋靴</name>
+            <name>钱包</name>
+            <name>腰带</name>
+        </info>
+        <info label="饰品">
+            <name>手链/手镯</name>
+            <name>项链</name>
+            <name>耳饰</name>
+        </info>
+    </infos>
+    <infos label="京东国际">
+        <info label="特色馆区">
+            <name>日本馆</name>
+            <name>韩国馆</name>
+            <name>美国馆</name>
+        </info>
+        <info label="潮流数码">
+            <name>游戏机</name>
+            <name>手机</name>
+            <name>耳机/耳麦</name>
+            <name>音箱/音响</name>
+            <name>游戏本</name>
+            <name>笔记本</name>
+            <name>单反/微单</name>
+            <name>游戏软件</name>
+            <name>电脑外设</name>
+            <name>平板电脑</name>
+            <name>电纸书</name>
+            <name>智能手表</name>
+        </info>
+        <info label="家用电器">
+            <name>电水壶</name>
+            <name>电吹风</name>
+            <name>剃须刀</name>
+            <name>净化器</name>
+            <name>咖啡机</name>
+            <name>扫地机器人</name>
+        </info>
+        <info label="汽车用品">
+            <name>机油</name>
+            <name>车载电器</name>
+            <name>美容清洗</name>
+        </info>
+    </infos>
+    <infos label="唯品会">
+        <info label="潮流男装">
+            <name>秋季新品</name>
+            <name>T恤</name>
+            <name>男士衬衫</name>
+            <name>卫衣</name>
+            <name>休闲裤</name>
+            <name>牛仔裤</name>
+            <name>套装</name>
+            <name>针织衫</name>
+            <name>大衣</name>
+        </info>
+        <info label="户外运动">
+            <name>运动休闲鞋</name>
+            <name>夹克</name>
+            <name>男运动裤</name>
+            <name>男运动鞋</name>
+            <name>女运动鞋</name>
+            <name>女运动裤</name>
+            <name>跑步鞋</name>
+            <name>篮球鞋</name>
+            <name>卫衣</name>
+            <name>冲锋衣</name>
+            <name>运动外套</name>
+            <name>运动内衣</name>
+        </info>
+        <info label="时尚女装">
+            <name>秋季新品</name>
+            <name>连衣裙</name>
+            <name>T恤</name>
+            <name>衬衫</name>
+            <name>卫衣</name>
+            <name>牛仔裤</name>
+            <name>织针衫</name>
+            <name>大衣</name>
+            <name>羽绒服</name>
+        </info>
+    </infos>
+    <infos label="男装">
+        <info label="常用分类">
+            <name>笔记本</name>
+            <name>手机</name>
+            <name>坚果炒货</name>
+            <name>笔记本配件</name>
+            <name>手机耳机</name>
+            <name>平板电脑</name>
+        </info>
+        <info label="专场推荐">
+            <name>199减60</name>
+            <name>圣诞礼遇季</name>
+            <name>限时7折</name>
+        </info>
+        <info label="热门分类">
+            <name>笔记本</name>
+            <name>空调</name>
+            <name>手机</name>
+            <name>服饰</name>
+            <name>休闲零食</name>
+            <name>生鲜</name>
+            <name>图书</name>
+            <name>面膜</name>
+            <name>投资金</name>
+            <name>瑞表</name>
+            <name>牛奶</name>
+            <name>纸品湿巾</name>
+        </info>
+    </infos>
+    <infos label="女装">
+        <info label="休闲零食">
+            <name>坚果炒货</name>
+            <name>糖果</name>
+            <name>休闲零食</name>
+            <name>膨化食品</name>
+            <name>肉干肉脯</name>
+            <name>饼干蛋糕</name>
+            <name>蜜饯果干</name>
+            <name>低糖食品</name>
+            <name>中华老字号</name>
+        </info>
+        <info label="京东生鲜">
+            <name>新鲜水果</name>
+            <name>海鲜水产</name>
+            <name>精选肉类</name>
+            <name>蛋类</name>
+            <name>新鲜蔬菜</name>
+            <name>速冻食品</name>
+            <name>乳品冷饮</name>
+            <name>大闸蟹</name>
+            <name>芒果</name>
+        </info>
+        <info label="粮油调味">
+            <name>大米</name>
+            <name>面粉</name>
+            <name>杂粮</name>
+            <name>食用油</name>
+            <name>调味品</name>
+            <name>方便速食</name>
+            <name>烘焙原料</name>
+            <name>有机食品</name>
+            <name>南北干货</name>
+        </info>
+        <info label="水饮茗茶">
+            <name>饮用水</name>
+            <name>饮料</name>
+            <name>牛奶乳品</name>
+            <name>咖啡奶茶</name>
+            <name>成人奶粉</name>
+            <name>蜂蜜/蜂产品</name>
+        </info>
+        <info label="进口食品">
+            <name>牛奶</name>
+            <name>休闲零食</name>
+            <name>饼干蛋糕</name>
+            <name>糖果/巧克力</name>
+            <name>冲调饮品</name>
+            <name>粮油调味</name>
+        </info>
+        <info label="中外名酒">
+            <name>白酒</name>
+            <name>葡萄酒</name>
+            <name>洋酒</name>
+            <name>啤酒</name>
+            <name>黄酒/养生酒</name>
+            <name>陈年老酒</name>
+        </info>
+        <info label="营养保健">
+            <name>营养健康</name>
+            <name>营养成分</name>
+            <name>滋补养生</name>
+        </info>
+        <info label="母婴玩具">
+            <name>尿裤湿巾</name>
+            <name>喂养用品</name>
+            <name>洗护用具</name>
+            <name>童装</name>
+            <name>妈妈专区</name>
+            <name>童床</name>
+            <name>童车</name>
+            <name>安全座椅</name>
+            <name>玩具</name>
+        </info>
+        <info label="家具用品">
+            <name>床品套件</name>
+            <name>被子被芯</name>
+            <name>毛巾浴巾</name>
+            <name>睡衣家服</name>
+            <name>男士内裤</name>
+            <name>女士内裤</name>
+            <name>男袜</name>
+            <name>女袜</name>
+            <name>文胸</name>
+            <name>厨具</name>
+            <name>收纳用品</name>
+            <name>雨伞雨具</name>
+            <name>浴室用品</name>
+            <name>台灯</name>
+            <name>宠物园艺</name>
+        </info>
+        <info label="个护清洁">
+            <name>纸品湿巾</name>
+            <name>女性护理</name>
+            <name>口腔护理</name>
+            <name>衣物清洁</name>
+            <name>洗发护发</name>
+            <name>家庭清洁</name>
+            <name>一次性用品</name>
+            <name>驱虫用品</name>
+            <name>皮具护理</name>
+        </info>
+        <info label="美妆护肤">
+            <name>面膜</name>
+            <name>彩妆</name>
+            <name>香水</name>
+            <name>沐浴用品</name>
+            <name>男士护肤</name>
+            <name>女士护肤</name>
+        </info>
+        <info label="小家电">
+            <name>厨房小电</name>
+            <name>生活电器</name>
+            <name>剃须刀</name>
+        </info>
+        <info label="宠物生活">
+            <name>猫干粮</name>
+            <name>猫零食</name>
+            <name>猫砂</name>
+            <name>猫砂盆</name>
+            <name>狗干粮</name>
+            <name>狗零食</name>
+            <name>食具水具</name>
+            <name>宠物驱虫</name>
+            <name>鱼缸水缸箱</name>
+        </info>
+    </infos>
+    <infos label="男鞋">
+        <info label="推荐品牌">
+            <name>A21</name>
+            <name>CALVIN KLEIN</name>
+            <name>VANS</name>
+            <name>ECCO</name>
+            <name>POLO</name>
+            <name>SK-II</name>
+            <name>WERSACE</name>
+            <name>美素佳儿</name>
+            <name>FOSSIL</name>
+        </info>
+        <info label="运动户外">
+            <name>adidas</name>
+            <name>Nike</name>
+            <name>CONVERSE</name>
+            <name>CROCS</name>
+            <name>PUMA</name>
+            <name>Reebok</name>
+        </info>
+        <info label="钟表配饰">
+            <name>CITIZEN</name>
+            <name>SWATCH</name>
+            <name>CASIO</name>
+            <name>SEIKO</name>
+            <name>AGATHA</name>
+            <name>Ray Ban</name>
+        </info>
+    </infos>
+    <infos label="女鞋">
+        <info label="热门精选">
+            <name>官方旗舰</name>
+            <name>奢品童装</name>
+            <name>潮流奢品</name>
+        </info>
+        <info label="服饰">
+            <name>女服</name>
+            <name>男服</name>
+            <name>童装</name>
+        </info>
+        <info label="箱包">
+            <name>女士箱包</name>
+            <name>男士箱包</name>
+            <name>拉杆箱</name>
+        </info>
+        <info label="名表">
+            <name>瑞士名表</name>
+            <name>时尚腕表</name>
+            <name>智能手表</name>
+        </info>
+        <info label="鞋靴配件">
+            <name>鞋靴</name>
+            <name>钱包</name>
+            <name>腰带</name>
+        </info>
+        <info label="饰品">
+            <name>手链/手镯</name>
+            <name>项链</name>
+            <name>耳饰</name>
+        </info>
+    </infos>
+    <infos label="内衣配饰">
+        <info label="特色馆区">
+            <name>日本馆</name>
+            <name>韩国馆</name>
+            <name>美国馆</name>
+        </info>
+        <info label="潮流数码">
+            <name>游戏机</name>
+            <name>手机</name>
+            <name>耳机/耳麦</name>
+            <name>音箱/音响</name>
+            <name>游戏本</name>
+            <name>笔记本</name>
+            <name>单反/微单</name>
+            <name>游戏软件</name>
+            <name>电脑外设</name>
+            <name>平板电脑</name>
+            <name>电纸书</name>
+            <name>智能手表</name>
+        </info>
+        <info label="家用电器">
+            <name>电水壶</name>
+            <name>电吹风</name>
+            <name>剃须刀</name>
+            <name>净化器</name>
+            <name>咖啡机</name>
+            <name>扫地机器人</name>
+        </info>
+        <info label="汽车用品">
+            <name>机油</name>
+            <name>车载电器</name>
+            <name>美容清洗</name>
+        </info>
+    </infos>
+    <infos label="箱包手袋">
+        <info label="潮流男装">
+            <name>秋季新品</name>
+            <name>T恤</name>
+            <name>男士衬衫</name>
+            <name>卫衣</name>
+            <name>休闲裤</name>
+            <name>牛仔裤</name>
+            <name>套装</name>
+            <name>针织衫</name>
+            <name>大衣</name>
+        </info>
+        <info label="户外运动">
+            <name>运动休闲鞋</name>
+            <name>夹克</name>
+            <name>男运动裤</name>
+            <name>男运动鞋</name>
+            <name>女运动鞋</name>
+            <name>女运动裤</name>
+            <name>跑步鞋</name>
+            <name>篮球鞋</name>
+            <name>卫衣</name>
+            <name>冲锋衣</name>
+            <name>运动外套</name>
+            <name>运动内衣</name>
+        </info>
+        <info label="时尚女装">
+            <name>秋季新品</name>
+            <name>连衣裙</name>
+            <name>T恤</name>
+            <name>衬衫</name>
+            <name>卫衣</name>
+            <name>牛仔裤</name>
+            <name>织针衫</name>
+            <name>大衣</name>
+            <name>羽绒服</name>
+        </info>
+    </infos>
+    <infos label="美妆护肤">
+        <info label="常用分类">
+            <name>笔记本</name>
+            <name>手机</name>
+            <name>坚果炒货</name>
+            <name>笔记本配件</name>
+            <name>手机耳机</name>
+            <name>平板电脑</name>
+        </info>
+        <info label="专场推荐">
+            <name>199减60</name>
+            <name>圣诞礼遇季</name>
+            <name>限时7折</name>
+        </info>
+        <info label="热门分类">
+            <name>笔记本</name>
+            <name>空调</name>
+            <name>手机</name>
+            <name>服饰</name>
+            <name>休闲零食</name>
+            <name>生鲜</name>
+            <name>图书</name>
+            <name>面膜</name>
+            <name>投资金</name>
+            <name>瑞表</name>
+            <name>牛奶</name>
+            <name>纸品湿巾</name>
+        </info>
+    </infos>
+    <infos label="个护清洁">
+        <info label="休闲零食">
+            <name>坚果炒货</name>
+            <name>糖果</name>
+            <name>休闲零食</name>
+            <name>膨化食品</name>
+            <name>肉干肉脯</name>
+            <name>饼干蛋糕</name>
+            <name>蜜饯果干</name>
+            <name>低糖食品</name>
+            <name>中华老字号</name>
+        </info>
+        <info label="京东生鲜">
+            <name>新鲜水果</name>
+            <name>海鲜水产</name>
+            <name>精选肉类</name>
+            <name>蛋类</name>
+            <name>新鲜蔬菜</name>
+            <name>速冻食品</name>
+            <name>乳品冷饮</name>
+            <name>大闸蟹</name>
+            <name>芒果</name>
+        </info>
+        <info label="粮油调味">
+            <name>大米</name>
+            <name>面粉</name>
+            <name>杂粮</name>
+            <name>食用油</name>
+            <name>调味品</name>
+            <name>方便速食</name>
+            <name>烘焙原料</name>
+            <name>有机食品</name>
+            <name>南北干货</name>
+        </info>
+        <info label="水饮茗茶">
+            <name>饮用水</name>
+            <name>饮料</name>
+            <name>牛奶乳品</name>
+            <name>咖啡奶茶</name>
+            <name>成人奶粉</name>
+            <name>蜂蜜/蜂产品</name>
+        </info>
+        <info label="进口食品">
+            <name>牛奶</name>
+            <name>休闲零食</name>
+            <name>饼干蛋糕</name>
+            <name>糖果/巧克力</name>
+            <name>冲调饮品</name>
+            <name>粮油调味</name>
+        </info>
+        <info label="中外名酒">
+            <name>白酒</name>
+            <name>葡萄酒</name>
+            <name>洋酒</name>
+            <name>啤酒</name>
+            <name>黄酒/养生酒</name>
+            <name>陈年老酒</name>
+        </info>
+        <info label="营养保健">
+            <name>营养健康</name>
+            <name>营养成分</name>
+            <name>滋补养生</name>
+        </info>
+        <info label="母婴玩具">
+            <name>尿裤湿巾</name>
+            <name>喂养用品</name>
+            <name>洗护用具</name>
+            <name>童装</name>
+            <name>妈妈专区</name>
+            <name>童床</name>
+            <name>童车</name>
+            <name>安全座椅</name>
+            <name>玩具</name>
+        </info>
+        <info label="家具用品">
+            <name>床品套件</name>
+            <name>被子被芯</name>
+            <name>毛巾浴巾</name>
+            <name>睡衣家服</name>
+            <name>男士内裤</name>
+            <name>女士内裤</name>
+            <name>男袜</name>
+            <name>女袜</name>
+            <name>文胸</name>
+            <name>厨具</name>
+            <name>收纳用品</name>
+            <name>雨伞雨具</name>
+            <name>浴室用品</name>
+            <name>台灯</name>
+            <name>宠物园艺</name>
+        </info>
+        <info label="个护清洁">
+            <name>纸品湿巾</name>
+            <name>女性护理</name>
+            <name>口腔护理</name>
+            <name>衣物清洁</name>
+            <name>洗发护发</name>
+            <name>家庭清洁</name>
+            <name>一次性用品</name>
+            <name>驱虫用品</name>
+            <name>皮具护理</name>
+        </info>
+        <info label="美妆护肤">
+            <name>面膜</name>
+            <name>彩妆</name>
+            <name>香水</name>
+            <name>沐浴用品</name>
+            <name>男士护肤</name>
+            <name>女士护肤</name>
+        </info>
+        <info label="小家电">
+            <name>厨房小电</name>
+            <name>生活电器</name>
+            <name>剃须刀</name>
+        </info>
+        <info label="宠物生活">
+            <name>猫干粮</name>
+            <name>猫零食</name>
+            <name>猫砂</name>
+            <name>猫砂盆</name>
+            <name>狗干粮</name>
+            <name>狗零食</name>
+            <name>食具水具</name>
+            <name>宠物驱虫</name>
+            <name>鱼缸水缸箱</name>
+        </info>
+    </infos>
+    <infos label="钟表珠宝">
+        <info label="推荐品牌">
+            <name>A21</name>
+            <name>CALVIN KLEIN</name>
+            <name>VANS</name>
+            <name>ECCO</name>
+            <name>POLO</name>
+            <name>SK-II</name>
+            <name>WERSACE</name>
+            <name>美素佳儿</name>
+            <name>FOSSIL</name>
+        </info>
+        <info label="运动户外">
+            <name>adidas</name>
+            <name>Nike</name>
+            <name>CONVERSE</name>
+            <name>CROCS</name>
+            <name>PUMA</name>
+            <name>Reebok</name>
+        </info>
+        <info label="钟表配饰">
+            <name>CITIZEN</name>
+            <name>SWATCH</name>
+            <name>CASIO</name>
+            <name>SEIKO</name>
+            <name>AGATHA</name>
+            <name>Ray Ban</name>
+        </info>
+    </infos>
+    <infos label="手机数码">
+        <info label="热门精选">
+            <name>官方旗舰</name>
+            <name>奢品童装</name>
+            <name>潮流奢品</name>
+        </info>
+        <info label="服饰">
+            <name>女服</name>
+            <name>男服</name>
+            <name>童装</name>
+        </info>
+        <info label="箱包">
+            <name>女士箱包</name>
+            <name>男士箱包</name>
+            <name>拉杆箱</name>
+        </info>
+        <info label="名表">
+            <name>瑞士名表</name>
+            <name>时尚腕表</name>
+            <name>智能手表</name>
+        </info>
+        <info label="鞋靴配件">
+            <name>鞋靴</name>
+            <name>钱包</name>
+            <name>腰带</name>
+        </info>
+        <info label="饰品">
+            <name>手链/手镯</name>
+            <name>项链</name>
+            <name>耳饰</name>
+        </info>
+    </infos>
+    <infos label="电脑办公">
+        <info label="特色馆区">
+            <name>日本馆</name>
+            <name>韩国馆</name>
+            <name>美国馆</name>
+        </info>
+        <info label="潮流数码">
+            <name>游戏机</name>
+            <name>手机</name>
+            <name>耳机/耳麦</name>
+            <name>音箱/音响</name>
+            <name>游戏本</name>
+            <name>笔记本</name>
+            <name>单反/微单</name>
+            <name>游戏软件</name>
+            <name>电脑外设</name>
+            <name>平板电脑</name>
+            <name>电纸书</name>
+            <name>智能手表</name>
+        </info>
+        <info label="家用电器">
+            <name>电水壶</name>
+            <name>电吹风</name>
+            <name>剃须刀</name>
+            <name>净化器</name>
+            <name>咖啡机</name>
+            <name>扫地机器人</name>
+        </info>
+        <info label="汽车用品">
+            <name>机油</name>
+            <name>车载电器</name>
+            <name>美容清洗</name>
+        </info>
+    </infos>
+    <infos label="家用电器">
+        <info label="潮流男装">
+            <name>秋季新品</name>
+            <name>T恤</name>
+            <name>男士衬衫</name>
+            <name>卫衣</name>
+            <name>休闲裤</name>
+            <name>牛仔裤</name>
+            <name>套装</name>
+            <name>针织衫</name>
+            <name>大衣</name>
+        </info>
+        <info label="户外运动">
+            <name>运动休闲鞋</name>
+            <name>夹克</name>
+            <name>男运动裤</name>
+            <name>男运动鞋</name>
+            <name>女运动鞋</name>
+            <name>女运动裤</name>
+            <name>跑步鞋</name>
+            <name>篮球鞋</name>
+            <name>卫衣</name>
+            <name>冲锋衣</name>
+            <name>运动外套</name>
+            <name>运动内衣</name>
+        </info>
+        <info label="时尚女装">
+            <name>秋季新品</name>
+            <name>连衣裙</name>
+            <name>T恤</name>
+            <name>衬衫</name>
+            <name>卫衣</name>
+            <name>牛仔裤</name>
+            <name>织针衫</name>
+            <name>大衣</name>
+            <name>羽绒服</name>
+        </info>
+    </infos>
+    <infos label="食品生鲜">
+        <info label="常用分类">
+            <name>笔记本</name>
+            <name>手机</name>
+            <name>坚果炒货</name>
+            <name>笔记本配件</name>
+            <name>手机耳机</name>
+            <name>平板电脑</name>
+        </info>
+        <info label="专场推荐">
+            <name>199减60</name>
+            <name>圣诞礼遇季</name>
+            <name>限时7折</name>
+        </info>
+        <info label="热门分类">
+            <name>笔记本</name>
+            <name>空调</name>
+            <name>手机</name>
+            <name>服饰</name>
+            <name>休闲零食</name>
+            <name>生鲜</name>
+            <name>图书</name>
+            <name>面膜</name>
+            <name>投资金</name>
+            <name>瑞表</name>
+            <name>牛奶</name>
+            <name>纸品湿巾</name>
+        </info>
+    </infos>
+    <infos label="酒水饮料">
+        <info label="休闲零食">
+            <name>坚果炒货</name>
+            <name>糖果</name>
+            <name>休闲零食</name>
+            <name>膨化食品</name>
+            <name>肉干肉脯</name>
+            <name>饼干蛋糕</name>
+            <name>蜜饯果干</name>
+            <name>低糖食品</name>
+            <name>中华老字号</name>
+        </info>
+        <info label="京东生鲜">
+            <name>新鲜水果</name>
+            <name>海鲜水产</name>
+            <name>精选肉类</name>
+            <name>蛋类</name>
+            <name>新鲜蔬菜</name>
+            <name>速冻食品</name>
+            <name>乳品冷饮</name>
+            <name>大闸蟹</name>
+            <name>芒果</name>
+        </info>
+        <info label="粮油调味">
+            <name>大米</name>
+            <name>面粉</name>
+            <name>杂粮</name>
+            <name>食用油</name>
+            <name>调味品</name>
+            <name>方便速食</name>
+            <name>烘焙原料</name>
+            <name>有机食品</name>
+            <name>南北干货</name>
+        </info>
+        <info label="水饮茗茶">
+            <name>饮用水</name>
+            <name>饮料</name>
+            <name>牛奶乳品</name>
+            <name>咖啡奶茶</name>
+            <name>成人奶粉</name>
+            <name>蜂蜜/蜂产品</name>
+        </info>
+        <info label="进口食品">
+            <name>牛奶</name>
+            <name>休闲零食</name>
+            <name>饼干蛋糕</name>
+            <name>糖果/巧克力</name>
+            <name>冲调饮品</name>
+            <name>粮油调味</name>
+        </info>
+        <info label="中外名酒">
+            <name>白酒</name>
+            <name>葡萄酒</name>
+            <name>洋酒</name>
+            <name>啤酒</name>
+            <name>黄酒/养生酒</name>
+            <name>陈年老酒</name>
+        </info>
+        <info label="营养保健">
+            <name>营养健康</name>
+            <name>营养成分</name>
+            <name>滋补养生</name>
+        </info>
+        <info label="母婴玩具">
+            <name>尿裤湿巾</name>
+            <name>喂养用品</name>
+            <name>洗护用具</name>
+            <name>童装</name>
+            <name>妈妈专区</name>
+            <name>童床</name>
+            <name>童车</name>
+            <name>安全座椅</name>
+            <name>玩具</name>
+        </info>
+        <info label="家具用品">
+            <name>床品套件</name>
+            <name>被子被芯</name>
+            <name>毛巾浴巾</name>
+            <name>睡衣家服</name>
+            <name>男士内裤</name>
+            <name>女士内裤</name>
+            <name>男袜</name>
+            <name>女袜</name>
+            <name>文胸</name>
+            <name>厨具</name>
+            <name>收纳用品</name>
+            <name>雨伞雨具</name>
+            <name>浴室用品</name>
+            <name>台灯</name>
+            <name>宠物园艺</name>
+        </info>
+        <info label="个护清洁">
+            <name>纸品湿巾</name>
+            <name>女性护理</name>
+            <name>口腔护理</name>
+            <name>衣物清洁</name>
+            <name>洗发护发</name>
+            <name>家庭清洁</name>
+            <name>一次性用品</name>
+            <name>驱虫用品</name>
+            <name>皮具护理</name>
+        </info>
+        <info label="美妆护肤">
+            <name>面膜</name>
+            <name>彩妆</name>
+            <name>香水</name>
+            <name>沐浴用品</name>
+            <name>男士护肤</name>
+            <name>女士护肤</name>
+        </info>
+        <info label="小家电">
+            <name>厨房小电</name>
+            <name>生活电器</name>
+            <name>剃须刀</name>
+        </info>
+        <info label="宠物生活">
+            <name>猫干粮</name>
+            <name>猫零食</name>
+            <name>猫砂</name>
+            <name>猫砂盆</name>
+            <name>狗干粮</name>
+            <name>狗零食</name>
+            <name>食具水具</name>
+            <name>宠物驱虫</name>
+            <name>鱼缸水缸箱</name>
+        </info>
+    </infos>
+    <infos label="母婴童装">
+        <info label="推荐品牌">
+            <name>A21</name>
+            <name>CALVIN KLEIN</name>
+            <name>VANS</name>
+            <name>ECCO</name>
+            <name>POLO</name>
+            <name>SK-II</name>
+            <name>WERSACE</name>
+            <name>美素佳儿</name>
+            <name>FOSSIL</name>
+        </info>
+        <info label="运动户外">
+            <name>adidas</name>
+            <name>Nike</name>
+            <name>CONVERSE</name>
+            <name>CROCS</name>
+            <name>PUMA</name>
+            <name>Reebok</name>
+        </info>
+        <info label="钟表配饰">
+            <name>CITIZEN</name>
+            <name>SWATCH</name>
+            <name>CASIO</name>
+            <name>SEIKO</name>
+            <name>AGATHA</name>
+            <name>Ray Ban</name>
+        </info>
+    </infos>
+    <infos label="玩具乐器">
+        <info label="热门精选">
+            <name>官方旗舰</name>
+            <name>奢品童装</name>
+            <name>潮流奢品</name>
+        </info>
+        <info label="服饰">
+            <name>女服</name>
+            <name>男服</name>
+            <name>童装</name>
+        </info>
+        <info label="箱包">
+            <name>女士箱包</name>
+            <name>男士箱包</name>
+            <name>拉杆箱</name>
+        </info>
+        <info label="名表">
+            <name>瑞士名表</name>
+            <name>时尚腕表</name>
+            <name>智能手表</name>
+        </info>
+        <info label="鞋靴配件">
+            <name>鞋靴</name>
+            <name>钱包</name>
+            <name>腰带</name>
+        </info>
+        <info label="饰品">
+            <name>手链/手镯</name>
+            <name>项链</name>
+            <name>耳饰</name>
+        </info>
+    </infos>
+    <infos label="医药保健">
+        <info label="特色馆区">
+            <name>日本馆</name>
+            <name>韩国馆</name>
+            <name>美国馆</name>
+        </info>
+        <info label="潮流数码">
+            <name>游戏机</name>
+            <name>手机</name>
+            <name>耳机/耳麦</name>
+            <name>音箱/音响</name>
+            <name>游戏本</name>
+            <name>笔记本</name>
+            <name>单反/微单</name>
+            <name>游戏软件</name>
+            <name>电脑外设</name>
+            <name>平板电脑</name>
+            <name>电纸书</name>
+            <name>智能手表</name>
+        </info>
+        <info label="家用电器">
+            <name>电水壶</name>
+            <name>电吹风</name>
+            <name>剃须刀</name>
+            <name>净化器</name>
+            <name>咖啡机</name>
+            <name>扫地机器人</name>
+        </info>
+        <info label="汽车用品">
+            <name>机油</name>
+            <name>车载电器</name>
+            <name>美容清洗</name>
+        </info>
+    </infos>
+    <infos label="计生情趣">
+        <info label="潮流男装">
+            <name>秋季新品</name>
+            <name>T恤</name>
+            <name>男士衬衫</name>
+            <name>卫衣</name>
+            <name>休闲裤</name>
+            <name>牛仔裤</name>
+            <name>套装</name>
+            <name>针织衫</name>
+            <name>大衣</name>
+        </info>
+        <info label="户外运动">
+            <name>运动休闲鞋</name>
+            <name>夹克</name>
+            <name>男运动裤</name>
+            <name>男运动鞋</name>
+            <name>女运动鞋</name>
+            <name>女运动裤</name>
+            <name>跑步鞋</name>
+            <name>篮球鞋</name>
+            <name>卫衣</name>
+            <name>冲锋衣</name>
+            <name>运动外套</name>
+            <name>运动内衣</name>
+        </info>
+        <info label="时尚女装">
+            <name>秋季新品</name>
+            <name>连衣裙</name>
+            <name>T恤</name>
+            <name>衬衫</name>
+            <name>卫衣</name>
+            <name>牛仔裤</name>
+            <name>织针衫</name>
+            <name>大衣</name>
+            <name>羽绒服</name>
+        </info>
+    </infos>
+    <infos label="运动户外">
+        <info label="常用分类">
+            <name>笔记本</name>
+            <name>手机</name>
+            <name>坚果炒货</name>
+            <name>笔记本配件</name>
+            <name>手机耳机</name>
+            <name>平板电脑</name>
+        </info>
+        <info label="专场推荐">
+            <name>199减60</name>
+            <name>圣诞礼遇季</name>
+            <name>限时7折</name>
+        </info>
+        <info label="热门分类">
+            <name>笔记本</name>
+            <name>空调</name>
+            <name>手机</name>
+            <name>服饰</name>
+            <name>休闲零食</name>
+            <name>生鲜</name>
+            <name>图书</name>
+            <name>面膜</name>
+            <name>投资金</name>
+            <name>瑞表</name>
+            <name>牛奶</name>
+            <name>纸品湿巾</name>
+        </info>
+    </infos>
+    <infos label="汽车生活">
+        <info label="休闲零食">
+            <name>坚果炒货</name>
+            <name>糖果</name>
+            <name>休闲零食</name>
+            <name>膨化食品</name>
+            <name>肉干肉脯</name>
+            <name>饼干蛋糕</name>
+            <name>蜜饯果干</name>
+            <name>低糖食品</name>
+            <name>中华老字号</name>
+        </info>
+        <info label="京东生鲜">
+            <name>新鲜水果</name>
+            <name>海鲜水产</name>
+            <name>精选肉类</name>
+            <name>蛋类</name>
+            <name>新鲜蔬菜</name>
+            <name>速冻食品</name>
+            <name>乳品冷饮</name>
+            <name>大闸蟹</name>
+            <name>芒果</name>
+        </info>
+        <info label="粮油调味">
+            <name>大米</name>
+            <name>面粉</name>
+            <name>杂粮</name>
+            <name>食用油</name>
+            <name>调味品</name>
+            <name>方便速食</name>
+            <name>烘焙原料</name>
+            <name>有机食品</name>
+            <name>南北干货</name>
+        </info>
+        <info label="水饮茗茶">
+            <name>饮用水</name>
+            <name>饮料</name>
+            <name>牛奶乳品</name>
+            <name>咖啡奶茶</name>
+            <name>成人奶粉</name>
+            <name>蜂蜜/蜂产品</name>
+        </info>
+        <info label="进口食品">
+            <name>牛奶</name>
+            <name>休闲零食</name>
+            <name>饼干蛋糕</name>
+            <name>糖果/巧克力</name>
+            <name>冲调饮品</name>
+            <name>粮油调味</name>
+        </info>
+        <info label="中外名酒">
+            <name>白酒</name>
+            <name>葡萄酒</name>
+            <name>洋酒</name>
+            <name>啤酒</name>
+            <name>黄酒/养生酒</name>
+            <name>陈年老酒</name>
+        </info>
+        <info label="营养保健">
+            <name>营养健康</name>
+            <name>营养成分</name>
+            <name>滋补养生</name>
+        </info>
+        <info label="母婴玩具">
+            <name>尿裤湿巾</name>
+            <name>喂养用品</name>
+            <name>洗护用具</name>
+            <name>童装</name>
+            <name>妈妈专区</name>
+            <name>童床</name>
+            <name>童车</name>
+            <name>安全座椅</name>
+            <name>玩具</name>
+        </info>
+        <info label="家具用品">
+            <name>床品套件</name>
+            <name>被子被芯</name>
+            <name>毛巾浴巾</name>
+            <name>睡衣家服</name>
+            <name>男士内裤</name>
+            <name>女士内裤</name>
+            <name>男袜</name>
+            <name>女袜</name>
+            <name>文胸</name>
+            <name>厨具</name>
+            <name>收纳用品</name>
+            <name>雨伞雨具</name>
+            <name>浴室用品</name>
+            <name>台灯</name>
+            <name>宠物园艺</name>
+        </info>
+        <info label="个护清洁">
+            <name>纸品湿巾</name>
+            <name>女性护理</name>
+            <name>口腔护理</name>
+            <name>衣物清洁</name>
+            <name>洗发护发</name>
+            <name>家庭清洁</name>
+            <name>一次性用品</name>
+            <name>驱虫用品</name>
+            <name>皮具护理</name>
+        </info>
+        <info label="美妆护肤">
+            <name>面膜</name>
+            <name>彩妆</name>
+            <name>香水</name>
+            <name>沐浴用品</name>
+            <name>男士护肤</name>
+            <name>女士护肤</name>
+        </info>
+        <info label="小家电">
+            <name>厨房小电</name>
+            <name>生活电器</name>
+            <name>剃须刀</name>
+        </info>
+        <info label="宠物生活">
+            <name>猫干粮</name>
+            <name>猫零食</name>
+            <name>猫砂</name>
+            <name>猫砂盆</name>
+            <name>狗干粮</name>
+            <name>狗零食</name>
+            <name>食具水具</name>
+            <name>宠物驱虫</name>
+            <name>鱼缸水缸箱</name>
+        </info>
+    </infos>
+    <infos label="家具厨具">
+        <info label="推荐品牌">
+            <name>A21</name>
+            <name>CALVIN KLEIN</name>
+            <name>VANS</name>
+            <name>ECCO</name>
+            <name>POLO</name>
+            <name>SK-II</name>
+            <name>WERSACE</name>
+            <name>美素佳儿</name>
+            <name>FOSSIL</name>
+        </info>
+        <info label="运动户外">
+            <name>adidas</name>
+            <name>Nike</name>
+            <name>CONVERSE</name>
+            <name>CROCS</name>
+            <name>PUMA</name>
+            <name>Reebok</name>
+        </info>
+        <info label="钟表配饰">
+            <name>CITIZEN</name>
+            <name>SWATCH</name>
+            <name>CASIO</name>
+            <name>SEIKO</name>
+            <name>AGATHA</name>
+            <name>Ray Ban</name>
+        </info>
+    </infos>
+    <infos label="家居家装">
+        <info label="热门精选">
+            <name>官方旗舰</name>
+            <name>奢品童装</name>
+            <name>潮流奢品</name>
+        </info>
+        <info label="服饰">
+            <name>女服</name>
+            <name>男服</name>
+            <name>童装</name>
+        </info>
+        <info label="箱包">
+            <name>女士箱包</name>
+            <name>男士箱包</name>
+            <name>拉杆箱</name>
+        </info>
+        <info label="名表">
+            <name>瑞士名表</name>
+            <name>时尚腕表</name>
+            <name>智能手表</name>
+        </info>
+        <info label="鞋靴配件">
+            <name>鞋靴</name>
+            <name>钱包</name>
+            <name>腰带</name>
+        </info>
+        <info label="饰品">
+            <name>手链/手镯</name>
+            <name>项链</name>
+            <name>耳饰</name>
+        </info>
+    </infos>
+    <infos label="礼品鲜花">
+        <info label="特色馆区">
+            <name>日本馆</name>
+            <name>韩国馆</name>
+            <name>美国馆</name>
+        </info>
+        <info label="潮流数码">
+            <name>游戏机</name>
+            <name>手机</name>
+            <name>耳机/耳麦</name>
+            <name>音箱/音响</name>
+            <name>游戏本</name>
+            <name>笔记本</name>
+            <name>单反/微单</name>
+            <name>游戏软件</name>
+            <name>电脑外设</name>
+            <name>平板电脑</name>
+            <name>电纸书</name>
+            <name>智能手表</name>
+        </info>
+        <info label="家用电器">
+            <name>电水壶</name>
+            <name>电吹风</name>
+            <name>剃须刀</name>
+            <name>净化器</name>
+            <name>咖啡机</name>
+            <name>扫地机器人</name>
+        </info>
+        <info label="汽车用品">
+            <name>机油</name>
+            <name>车载电器</name>
+            <name>美容清洗</name>
+        </info>
+    </infos>
+    <infos label="宠物生活">
+        <info label="潮流男装">
+            <name>秋季新品</name>
+            <name>T恤</name>
+            <name>男士衬衫</name>
+            <name>卫衣</name>
+            <name>休闲裤</name>
+            <name>牛仔裤</name>
+            <name>套装</name>
+            <name>针织衫</name>
+            <name>大衣</name>
+        </info>
+        <info label="户外运动">
+            <name>运动休闲鞋</name>
+            <name>夹克</name>
+            <name>男运动裤</name>
+            <name>男运动鞋</name>
+            <name>女运动鞋</name>
+            <name>女运动裤</name>
+            <name>跑步鞋</name>
+            <name>篮球鞋</name>
+            <name>卫衣</name>
+            <name>冲锋衣</name>
+            <name>运动外套</name>
+            <name>运动内衣</name>
+        </info>
+        <info label="时尚女装">
+            <name>秋季新品</name>
+            <name>连衣裙</name>
+            <name>T恤</name>
+            <name>衬衫</name>
+            <name>卫衣</name>
+            <name>牛仔裤</name>
+            <name>织针衫</name>
+            <name>大衣</name>
+            <name>羽绒服</name>
+        </info>
+    </infos>
+    <infos label="生活旅行">
+        <info label="常用分类">
+            <name>笔记本</name>
+            <name>手机</name>
+            <name>坚果炒货</name>
+            <name>笔记本配件</name>
+            <name>手机耳机</name>
+            <name>平板电脑</name>
+        </info>
+        <info label="专场推荐">
+            <name>199减60</name>
+            <name>圣诞礼遇季</name>
+            <name>限时7折</name>
+        </info>
+        <info label="热门分类">
+            <name>笔记本</name>
+            <name>空调</name>
+            <name>手机</name>
+            <name>服饰</name>
+            <name>休闲零食</name>
+            <name>生鲜</name>
+            <name>图书</name>
+            <name>面膜</name>
+            <name>投资金</name>
+            <name>瑞表</name>
+            <name>牛奶</name>
+            <name>纸品湿巾</name>
+        </info>
+    </infos>
+    <infos label="图书文娱">
+        <info label="休闲零食">
+            <name>坚果炒货</name>
+            <name>糖果</name>
+            <name>休闲零食</name>
+            <name>膨化食品</name>
+            <name>肉干肉脯</name>
+            <name>饼干蛋糕</name>
+            <name>蜜饯果干</name>
+            <name>低糖食品</name>
+            <name>中华老字号</name>
+        </info>
+        <info label="京东生鲜">
+            <name>新鲜水果</name>
+            <name>海鲜水产</name>
+            <name>精选肉类</name>
+            <name>蛋类</name>
+            <name>新鲜蔬菜</name>
+            <name>速冻食品</name>
+            <name>乳品冷饮</name>
+            <name>大闸蟹</name>
+            <name>芒果</name>
+        </info>
+        <info label="粮油调味">
+            <name>大米</name>
+            <name>面粉</name>
+            <name>杂粮</name>
+            <name>食用油</name>
+            <name>调味品</name>
+            <name>方便速食</name>
+            <name>烘焙原料</name>
+            <name>有机食品</name>
+            <name>南北干货</name>
+        </info>
+        <info label="水饮茗茶">
+            <name>饮用水</name>
+            <name>饮料</name>
+            <name>牛奶乳品</name>
+            <name>咖啡奶茶</name>
+            <name>成人奶粉</name>
+            <name>蜂蜜/蜂产品</name>
+        </info>
+        <info label="进口食品">
+            <name>牛奶</name>
+            <name>休闲零食</name>
+            <name>饼干蛋糕</name>
+            <name>糖果/巧克力</name>
+            <name>冲调饮品</name>
+            <name>粮油调味</name>
+        </info>
+        <info label="中外名酒">
+            <name>白酒</name>
+            <name>葡萄酒</name>
+            <name>洋酒</name>
+            <name>啤酒</name>
+            <name>黄酒/养生酒</name>
+            <name>陈年老酒</name>
+        </info>
+        <info label="营养保健">
+            <name>营养健康</name>
+            <name>营养成分</name>
+            <name>滋补养生</name>
+        </info>
+        <info label="母婴玩具">
+            <name>尿裤湿巾</name>
+            <name>喂养用品</name>
+            <name>洗护用具</name>
+            <name>童装</name>
+            <name>妈妈专区</name>
+            <name>童床</name>
+            <name>童车</name>
+            <name>安全座椅</name>
+            <name>玩具</name>
+        </info>
+        <info label="家具用品">
+            <name>床品套件</name>
+            <name>被子被芯</name>
+            <name>毛巾浴巾</name>
+            <name>睡衣家服</name>
+            <name>男士内裤</name>
+            <name>女士内裤</name>
+            <name>男袜</name>
+            <name>女袜</name>
+            <name>文胸</name>
+            <name>厨具</name>
+            <name>收纳用品</name>
+            <name>雨伞雨具</name>
+            <name>浴室用品</name>
+            <name>台灯</name>
+            <name>宠物园艺</name>
+        </info>
+        <info label="个护清洁">
+            <name>纸品湿巾</name>
+            <name>女性护理</name>
+            <name>口腔护理</name>
+            <name>衣物清洁</name>
+            <name>洗发护发</name>
+            <name>家庭清洁</name>
+            <name>一次性用品</name>
+            <name>驱虫用品</name>
+            <name>皮具护理</name>
+        </info>
+        <info label="美妆护肤">
+            <name>面膜</name>
+            <name>彩妆</name>
+            <name>香水</name>
+            <name>沐浴用品</name>
+            <name>男士护肤</name>
+            <name>女士护肤</name>
+        </info>
+        <info label="小家电">
+            <name>厨房小电</name>
+            <name>生活电器</name>
+            <name>剃须刀</name>
+        </info>
+        <info label="宠物生活">
+            <name>猫干粮</name>
+            <name>猫零食</name>
+            <name>猫砂</name>
+            <name>猫砂盆</name>
+            <name>狗干粮</name>
+            <name>狗零食</name>
+            <name>食具水具</name>
+            <name>宠物驱虫</name>
+            <name>鱼缸水缸箱</name>
+        </info>
+    </infos>
+    <infos label="艺术邮币">
+        <info label="推荐品牌">
+            <name>A21</name>
+            <name>CALVIN KLEIN</name>
+            <name>VANS</name>
+            <name>ECCO</name>
+            <name>POLO</name>
+            <name>SK-II</name>
+            <name>WERSACE</name>
+            <name>美素佳儿</name>
+            <name>FOSSIL</name>
+        </info>
+        <info label="运动户外">
+            <name>adidas</name>
+            <name>Nike</name>
+            <name>CONVERSE</name>
+            <name>CROCS</name>
+            <name>PUMA</name>
+            <name>Reebok</name>
+        </info>
+        <info label="钟表配饰">
+            <name>CITIZEN</name>
+            <name>SWATCH</name>
+            <name>CASIO</name>
+            <name>SEIKO</name>
+            <name>AGATHA</name>
+            <name>Ray Ban</name>
+        </info>
+    </infos>
+    <infos label="农资园艺">
+        <info label="热门精选">
+            <name>官方旗舰</name>
+            <name>奢品童装</name>
+            <name>潮流奢品</name>
+        </info>
+        <info label="服饰">
+            <name>女服</name>
+            <name>男服</name>
+            <name>童装</name>
+        </info>
+        <info label="箱包">
+            <name>女士箱包</name>
+            <name>男士箱包</name>
+            <name>拉杆箱</name>
+        </info>
+        <info label="名表">
+            <name>瑞士名表</name>
+            <name>时尚腕表</name>
+            <name>智能手表</name>
+        </info>
+        <info label="鞋靴配件">
+            <name>鞋靴</name>
+            <name>钱包</name>
+            <name>腰带</name>
+        </info>
+        <info label="饰品">
+            <name>手链/手镯</name>
+            <name>项链</name>
+            <name>耳饰</name>
+        </info>
+    </infos>
+    <infos label="特产馆">
+        <info label="特色馆区">
+            <name>日本馆</name>
+            <name>韩国馆</name>
+            <name>美国馆</name>
+        </info>
+        <info label="潮流数码">
+            <name>游戏机</name>
+            <name>手机</name>
+            <name>耳机/耳麦</name>
+            <name>音箱/音响</name>
+            <name>游戏本</name>
+            <name>笔记本</name>
+            <name>单反/微单</name>
+            <name>游戏软件</name>
+            <name>电脑外设</name>
+            <name>平板电脑</name>
+            <name>电纸书</name>
+            <name>智能手表</name>
+        </info>
+        <info label="家用电器">
+            <name>电水壶</name>
+            <name>电吹风</name>
+            <name>剃须刀</name>
+            <name>净化器</name>
+            <name>咖啡机</name>
+            <name>扫地机器人</name>
+        </info>
+        <info label="汽车用品">
+            <name>机油</name>
+            <name>车载电器</name>
+            <name>美容清洗</name>
+        </info>
+    </infos>
+    <infos label="京东金融">
+        <info label="潮流男装">
+            <name>秋季新品</name>
+            <name>T恤</name>
+            <name>男士衬衫</name>
+            <name>卫衣</name>
+            <name>休闲裤</name>
+            <name>牛仔裤</name>
+            <name>套装</name>
+            <name>针织衫</name>
+            <name>大衣</name>
+        </info>
+        <info label="户外运动">
+            <name>运动休闲鞋</name>
+            <name>夹克</name>
+            <name>男运动裤</name>
+            <name>男运动鞋</name>
+            <name>女运动鞋</name>
+            <name>女运动裤</name>
+            <name>跑步鞋</name>
+            <name>篮球鞋</name>
+            <name>卫衣</name>
+            <name>冲锋衣</name>
+            <name>运动外套</name>
+            <name>运动内衣</name>
+        </info>
+        <info label="时尚女装">
+            <name>秋季新品</name>
+            <name>连衣裙</name>
+            <name>T恤</name>
+            <name>衬衫</name>
+            <name>卫衣</name>
+            <name>牛仔裤</name>
+            <name>织针衫</name>
+            <name>大衣</name>
+            <name>羽绒服</name>
+        </info>
+    </infos>
+    <infos label="拍卖">
+        <info label="常用分类">
+            <name>笔记本</name>
+            <name>手机</name>
+            <name>坚果炒货</name>
+            <name>笔记本配件</name>
+            <name>手机耳机</name>
+            <name>平板电脑</name>
+        </info>
+        <info label="专场推荐">
+            <name>199减60</name>
+            <name>圣诞礼遇季</name>
+            <name>限时7折</name>
+        </info>
+        <info label="热门分类">
+            <name>笔记本</name>
+            <name>空调</name>
+            <name>手机</name>
+            <name>服饰</name>
+            <name>休闲零食</name>
+            <name>生鲜</name>
+            <name>图书</name>
+            <name>面膜</name>
+            <name>投资金</name>
+            <name>瑞表</name>
+            <name>牛奶</name>
+            <name>纸品湿巾</name>
+        </info>
+    </infos>
+    <infos label="房产">
+        <info label="休闲零食">
+            <name>坚果炒货</name>
+            <name>糖果</name>
+            <name>休闲零食</name>
+            <name>膨化食品</name>
+            <name>肉干肉脯</name>
+            <name>饼干蛋糕</name>
+            <name>蜜饯果干</name>
+            <name>低糖食品</name>
+            <name>中华老字号</name>
+        </info>
+        <info label="京东生鲜">
+            <name>新鲜水果</name>
+            <name>海鲜水产</name>
+            <name>精选肉类</name>
+            <name>蛋类</name>
+            <name>新鲜蔬菜</name>
+            <name>速冻食品</name>
+            <name>乳品冷饮</name>
+            <name>大闸蟹</name>
+            <name>芒果</name>
+        </info>
+        <info label="粮油调味">
+            <name>大米</name>
+            <name>面粉</name>
+            <name>杂粮</name>
+            <name>食用油</name>
+            <name>调味品</name>
+            <name>方便速食</name>
+            <name>烘焙原料</name>
+            <name>有机食品</name>
+            <name>南北干货</name>
+        </info>
+        <info label="水饮茗茶">
+            <name>饮用水</name>
+            <name>饮料</name>
+            <name>牛奶乳品</name>
+            <name>咖啡奶茶</name>
+            <name>成人奶粉</name>
+            <name>蜂蜜/蜂产品</name>
+        </info>
+        <info label="进口食品">
+            <name>牛奶</name>
+            <name>休闲零食</name>
+            <name>饼干蛋糕</name>
+            <name>糖果/巧克力</name>
+            <name>冲调饮品</name>
+            <name>粮油调味</name>
+        </info>
+        <info label="中外名酒">
+            <name>白酒</name>
+            <name>葡萄酒</name>
+            <name>洋酒</name>
+            <name>啤酒</name>
+            <name>黄酒/养生酒</name>
+            <name>陈年老酒</name>
+        </info>
+        <info label="营养保健">
+            <name>营养健康</name>
+            <name>营养成分</name>
+            <name>滋补养生</name>
+        </info>
+        <info label="母婴玩具">
+            <name>尿裤湿巾</name>
+            <name>喂养用品</name>
+            <name>洗护用具</name>
+            <name>童装</name>
+            <name>妈妈专区</name>
+            <name>童床</name>
+            <name>童车</name>
+            <name>安全座椅</name>
+            <name>玩具</name>
+        </info>
+        <info label="家具用品">
+            <name>床品套件</name>
+            <name>被子被芯</name>
+            <name>毛巾浴巾</name>
+            <name>睡衣家服</name>
+            <name>男士内裤</name>
+            <name>女士内裤</name>
+            <name>男袜</name>
+            <name>女袜</name>
+            <name>文胸</name>
+            <name>厨具</name>
+            <name>收纳用品</name>
+            <name>雨伞雨具</name>
+            <name>浴室用品</name>
+            <name>台灯</name>
+            <name>宠物园艺</name>
+        </info>
+        <info label="个护清洁">
+            <name>纸品湿巾</name>
+            <name>女性护理</name>
+            <name>口腔护理</name>
+            <name>衣物清洁</name>
+            <name>洗发护发</name>
+            <name>家庭清洁</name>
+            <name>一次性用品</name>
+            <name>驱虫用品</name>
+            <name>皮具护理</name>
+        </info>
+        <info label="美妆护肤">
+            <name>面膜</name>
+            <name>彩妆</name>
+            <name>香水</name>
+            <name>沐浴用品</name>
+            <name>男士护肤</name>
+            <name>女士护肤</name>
+        </info>
+        <info label="小家电">
+            <name>厨房小电</name>
+            <name>生活电器</name>
+            <name>剃须刀</name>
+        </info>
+        <info label="宠物生活">
+            <name>猫干粮</name>
+            <name>猫零食</name>
+            <name>猫砂</name>
+            <name>猫砂盆</name>
+            <name>狗干粮</name>
+            <name>狗零食</name>
+            <name>食具水具</name>
+            <name>宠物驱虫</name>
+            <name>鱼缸水缸箱</name>
+        </info>
+    </infos>
+    <infos label="二手商品">
+        <info label="推荐品牌">
+            <name>A21</name>
+            <name>CALVIN KLEIN</name>
+            <name>VANS</name>
+            <name>ECCO</name>
+            <name>POLO</name>
+            <name>SK-II</name>
+            <name>WERSACE</name>
+            <name>美素佳儿</name>
+            <name>FOSSIL</name>
+        </info>
+        <info label="运动户外">
+            <name>adidas</name>
+            <name>Nike</name>
+            <name>CONVERSE</name>
+            <name>CROCS</name>
+            <name>PUMA</name>
+            <name>Reebok</name>
+        </info>
+        <info label="钟表配饰">
+            <name>CITIZEN</name>
+            <name>SWATCH</name>
+            <name>CASIO</name>
+            <name>SEIKO</name>
+            <name>AGATHA</name>
+            <name>Ray Ban</name>
+        </info>
+    </infos>
+    <infos label="京东服务">
+        <info label="热门精选">
+            <name>官方旗舰</name>
+            <name>奢品童装</name>
+            <name>潮流奢品</name>
+        </info>
+        <info label="服饰">
+            <name>女服</name>
+            <name>男服</name>
+            <name>童装</name>
+        </info>
+        <info label="箱包">
+            <name>女士箱包</name>
+            <name>男士箱包</name>
+            <name>拉杆箱</name>
+        </info>
+        <info label="名表">
+            <name>瑞士名表</name>
+            <name>时尚腕表</name>
+            <name>智能手表</name>
+        </info>
+        <info label="鞋靴配件">
+            <name>鞋靴</name>
+            <name>钱包</name>
+            <name>腰带</name>
+        </info>
+        <info label="饰品">
+            <name>手链/手镯</name>
+            <name>项链</name>
+            <name>耳饰</name>
+        </info>
+    </infos>
+    <infos label="工业品">
+        <info label="常用分类">
+            <name>笔记本</name>
+            <name>手机</name>
+            <name>坚果炒货</name>
+            <name>笔记本配件</name>
+            <name>手机耳机</name>
+            <name>平板电脑</name>
+        </info>
+        <info label="专场推荐">
+            <name>199减60</name>
+            <name>圣诞礼遇季</name>
+            <name>限时7折</name>
+        </info>
+        <info label="热门分类">
+            <name>笔记本</name>
+            <name>空调</name>
+            <name>手机</name>
+            <name>服饰</name>
+            <name>休闲零食</name>
+            <name>生鲜</name>
+            <name>图书</name>
+            <name>面膜</name>
+            <name>投资金</name>
+            <name>瑞表</name>
+            <name>牛奶</name>
+            <name>纸品湿巾</name>
+        </info>
+    </infos>
+</classic>

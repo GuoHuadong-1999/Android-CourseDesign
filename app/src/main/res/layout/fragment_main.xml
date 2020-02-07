@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/fl"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/colorPinkBackground">
+        <EditText android:id="@+id/et_search"
+                  android:paddingLeft="20dp"
+                  android:layout_width="match_parent"
+                  android:layout_height="40dp"
+                  android:layout_marginTop="10dp"
+                  android:drawableLeft="@drawable/search"
+                  android:background="@drawable/round"
+                  android:textColor="@color/colorBlackFont"
+                  android:textColorHint="@color/colorGrayFont"
+                  android:hint="请输入要搜索的商品信息"/>
+        <ImageView android:layout_width="356dp"
+                   android:layout_height="130dp"
+                   android:layout_marginTop="10dp"
+                   android:layout_marginBottom="10dp"
+                   android:src="@drawable/index">
+        </ImageView>
+    </LinearLayout>
+    <ListView
+            android:id="@+id/main_lv"
+            android:divider="@null"
+            android:fadingEdge="none"
+            android:headerDividersEnabled="false"
+            android:footerDividersEnabled="false"
+            android:dividerHeight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    </ListView>
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+    <EditText android:id="@+id/et_search"
+              android:paddingLeft="20dp"
+              android:layout_marginTop="10dp"
+              android:layout_marginBottom="10dp"
+              android:layout_width="match_parent"
+              android:layout_height="40dp"
+              android:drawableLeft="@drawable/search"
+              android:background="@drawable/round"
+              android:textColor="@color/colorBlackFont"
+              android:textColorHint="@color/colorGrayFont"
+              android:hint="请输入要搜索的商品信息"/>
+    <LinearLayout
+            android:layout_below="@id/et_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+        <ListView
+                android:id="@+id/classic_lv_label"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent">
+        </ListView>
+        <ListView
+                android:id="@+id/classic_lv_information"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:divider="@null"
+                android:fadingEdge="none"
+                android:headerDividersEnabled="false"
+                android:footerDividersEnabled="false"
+                android:dividerHeight="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@id/classic_lv_label"
+                android:layout_weight="3">
+        </ListView>
+    </LinearLayout>
+</RelativeLayout>
